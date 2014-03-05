@@ -12,7 +12,7 @@
 
     <artifactId>android-numberpicker</artifactId>
     <name>Android NumberPicker</name>
-    <packaging>apklib</packaging>
+    <packaging>aar</packaging>
 
     <dependencies>
         <dependency>
